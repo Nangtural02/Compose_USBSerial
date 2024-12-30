@@ -14,7 +14,7 @@ This library leverages Android USB Host Mode (OTG) to communicate with USB seria
 
 To use `SerialManager`, you can either:
 1. **Use this project as a base for your application**  
-   Clone or fork this repository and build your application on top of it.
+   [use the template]! or Clone or fork this repository and build your application on top of it.
 
 2. **Add `SerialManager` to your existing project**  
    Follow these steps to integrate:
