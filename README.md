@@ -76,4 +76,4 @@ All features and limitations of the original library apply. For more details, re
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
 The license for `usb-serial-for-android` can be found in its [MIT License](https://github.com/mik3y/usb-serial-for-android/blob/master/LICENSE).
 
-[Use the template]: https://github.com/Compose_USBSerial/Compose_USBSerial-template/generate
+[Use the template]: https://github.com/Nangtural02/Compose_USBSerial-template/generate
