@@ -14,7 +14,7 @@ This library leverages Android USB Host Mode (OTG) to communicate with USB seria
 
 To use `SerialManager`, you can either:
 1. **Use this project as a base for your application**  
-   [use the template]! or Clone or fork this repository and build your application on top of it.
+   [Use the template]! or Clone/fork this repository and build your application on top of it.
 
 2. **Add `SerialManager` to your existing project**  
    Follow these steps to integrate:
@@ -75,3 +75,5 @@ All features and limitations of the original library apply. For more details, re
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
 The license for `usb-serial-for-android` can be found in its [MIT License](https://github.com/mik3y/usb-serial-for-android/blob/master/LICENSE).
+
+[Use the template]: https://github.com/Compose_USBSerial/Compose_USBSerial-template/generate
