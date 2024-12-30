@@ -9,7 +9,6 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
-        maven(url = "https://jitpack.io")
     }
 }
 dependencyResolutionManagement {
@@ -21,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MySerialApp"
+rootProject.name = "Compose_USBSerial"
 include(":app")
  
